@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-container",
+  "version": "0.0.0",
+  "homepage": "https://github.com/stefanmerkel/bootstrap-container",
+  "authors": [
+    "Stefan Merkel <merkel.s.ulm@gmail.com>"
+  ],
+  "license": "-",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
